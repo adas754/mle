@@ -153,6 +153,85 @@ lambda 2 =1.28
 26. shift
 
 
+ml
+
+1. linear regression
+why best fit line
+2. mse , rmse , mae
+3. gradient descent
+4. assumption of linear regression
+5. why adjusted r2
+
+6. why name is regression instead of classification in logistic
+7. evaluation matrix
+8. when pre , recall ,f1 we will use
+
+9. what is the elbow method
+10. shiloute score
+11. bagging vs boosting
+12 . dt end to end
+13 . gd or xg or ada boost
+
+14 . cat boost
+
+15 . covariance corelation
+
+16 . outlier handle
+
+
+17 t smote technique
+
+18. min max and standard scaler
+
+
+19 . how to handle null value
+
+
+
+20 . technique of column transformer
+
+
+21, ml pipeline
+
+
+
+22 . different encoding technique when to use what
+
+23. advantage of pca
+
+
+24 . advantage of dbscan
+
+
+
+25 . what is imp hyperparameter in svm
+
+26 . kernal trick in svm
+
+
+27. difference between ml and dl
+
+
+28. how to calculate distance
+
+29. entropy and gini 
+
+30. bias variance tread off
+31 underfitting overfittting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
