@@ -1,0 +1,175 @@
+x     y
+2.5   2.4
+0.5    0.7
+2.2    2.9
+1.9    2.2
+3.1    3.0
+2.3    2.7
+2      1.6
+1      1.1
+1.5    1.6 
+1.1     0.9
+
+
+c=[cov(x,x)   cov(x,y)
+   cov(y,x)   cov(y,y)]
+
+XBAR=1.81
+cov(x,y)=summation of i=1 to n (xi-xbar)(yi-ybar)/n-1
+
+x x-xbar (x-xbar)(x-xbar)
+2.5 0.69  0.476
+0.5 -1.31 1.7161
+
+
+sum
+
+
+y y-ybar (y-ybar)(y-ybar)
+
+
+
+
+x y x-xbar y-ybar (x-xbar)(y-ybar)
+
+
+sum=5.53
+
+
+
+[0.6165  0.6154
+0.6154    0.7165]
+
+
+
+
+
+c-lambda I
+
+
+
+
+[0.6165  0.6154
+0.6154    0.7165] - lamda [1 0 
+                           0 1]
+
+
+[0.6165-lambda 0.6154
+
+
+0.6154       0.7165-lambda]
+
+lambda ^2-1.33lambda+0.06=0
+
+lamda 1 =0.04
+lambda 2 =1.28
+
+
+cv=lambda v
+
+
+
+[0.6165  0.6154
+0.6154    0.7165] [x1 y1] =0.04[x1
+                                y1]
+
+
+0.6165x1+0.6154y1=0.04x1
+0.6154x1+.7165y1=0.04y1
+
+
+
+x1 =-1.0845y1
+
+
+
+[-1.0845
+
+
+1]
+
+
+
+1.176+1=2.17614
+
+square root of 2.17614
+
+1.475
+
+-1.0845/1.475=-0.73
+
+1/1.475=0.6778
+
+
+
+
+
+
+
+[-0.7351
+0.6778]
+
+x2=0.92194 y2
+[0.6778
+ 0.7351]
+
+
+
+
+
+lamda 1 =0.04
+lambda 2 =1.28
+
+[2.5 2.4][
+
+[-0.7351
+0.6778]
+
+1. Matrix multiplication.
+2. Transpose of matrix
+3. most frequent word in sentence
+4. common prefix
+5. two sum
+6. roman to integer
+7. numpy brodcasting
+8. pandas group by join merge
+9. how create dataframe from dictionary
+10. remove duplicate element
+11. check string is palindrom or not , 
+12, check armstromg using oops
+13. ' i love python' o/p i love ,love python (sentence) regarding words . python o/p py,yt,th,ho,on
+14. triangle pattern
+15. leetcode 1742
+16. reverse str
+17find the missing number
+18 length of digit
+19. lambda map filter zip
+20.prime number
+21 reverse triangle pattern
+22. decorator 
+23. anagram
+24. find out mode and median without numpy 
+25. prime number using list comprehention
+26. shift
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
