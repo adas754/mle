@@ -1,0 +1,45 @@
+p(b/a)=p(b)*p(a/b)
+       -----------
+        p(a)
+
+
+x1 x2 x3 y
+
+p(y/x1,x2,x3...xn)=p(y)*p(x1,x2,x3....xn/y)
+                   -----------------------
+                     p(x1,x2....xn)
+
+p(n/x1,....xn)=p(n)*p(x1...xn/n)
+               -----------------
+                 p(x1,,,,,,xn)
+outlook yes no p(y) p(no)
+sunny   2   3   2/9 3/5
+overcast 4  0   4/9 0
+rain     3  2   3/9 2/5
+        --  --
+         9   5
+temp yes no p(y) p(no)
+hot   2   2  2/9  2/5 
+mild  4   2  4/9  2/5
+cold  3   1  3/9  1/5
+      --  --
+       9  5
+
+p(y)=9/14
+p(no)=5/14
+
+p(sunny,hot)
+p(yes/sunny,hot)=p(yes)*p(sunny/yes)*p(hot/yes)
+                 ------------------------------
+                   
+=9/14*2/9*2/9
+=0.03
+p(no/sunny,hot)=p(no)*p(sunny/no)*p(hot/no)
+=5/14*3/5*2/5
+=0.08
+p(yes/sunny,hot)=0.03/0.03+0.08
+=27%
+p(no/sunny,hot)=0.08/0.08+.03=72%
+
+
+
