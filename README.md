@@ -6,3 +6,4 @@
 # https://github.com/adas754/mle/blob/main/COLUMN_transformer.ipynb - column_transformer
 # https://github.com/adas754/mle/blob/main/dt%20regressor.txt - dt regressor
 # pre post pruning - https://github.com/adas754/mle/blob/main/dt_prepruning_post.ipynb
+# https://github.com/adas754/mle/blob/main/naive%20bayes%20algo.txt - naive bayes
