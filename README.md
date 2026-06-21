@@ -5,3 +5,4 @@
 # https://github.com/adas754/mle/blob/main/feature__eng_stand_min_max.ipynb - scalling
 # https://github.com/adas754/mle/blob/main/COLUMN_transformer.ipynb - column_transformer
 # https://github.com/adas754/mle/blob/main/dt%20regressor.txt - dt regressor
+# pre post pruning - https://github.com/adas754/mle/blob/main/dt_prepruning_post.ipynb
