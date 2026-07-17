@@ -1,0 +1,52 @@
+in 2010 census of a city , the weight
+distribution of individual in a small city
+was found to be
+
+weight category   percentage
+<50 kg             20%
+50-75 kg           30%
+>75 kg             50%
+
+in 2020 a sample of n (500) individuals was taken
+the observed freq are
+
+weight category   observed freq
+<50kg              140
+50-75 kg           160
+>75kg              200
+
+using alpha =0.05 , would u conclude that the 
+population weight distribution has 
+not changed in the last 
+10 year?
+
+step 1 :
+
+weight category   expected frequency
+<50 kg             0.2*500=100
+50-75 kg           0.3*500=150
+>75 kg             0.5*500=250
+h0:weight distribution has not changed
+h1:weight distribution has changed
+
+degree of freedom
+=k-1
+=3-1
+=2
+
+dof=2 alpha=0.05
+
+based on chi square table value is 5.991
+
+formula of chi square : 
+https://www.statisticalaid.com/chi-square-test-using-r/
+
+=(40)^2/100+ (10)^2/150+(-50)^2/250
+= 26.66
+
+26.66>5.991
+
+Reject ho
+h1:weight distribution has changed(accept)
+weight distribution has changed
+
