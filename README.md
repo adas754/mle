@@ -8,3 +8,4 @@
 # pre post pruning - https://github.com/adas754/mle/blob/main/dt_prepruning_post.ipynb
 # https://github.com/adas754/mle/blob/main/naive%20bayes%20algo.txt - naive bayes
 # https://www.kaggle.com/competitions/concrete-strength-regression/data
+# https://github.com/adas754/ML_Foundations/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv
