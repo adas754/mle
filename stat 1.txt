@@ -1,0 +1,173 @@
+mean
+median
+mode
+
+I want to handle null value
+numerical data mean , median
+no skewness-> mean
+skewness-> median
+categorical data
+mode
+
+distplot
+
+boxplot
+
+iqr when our distribution is not
+normal
+
+when the distribution is normal
+that time how we can find out
+the outlier?
+
+z score
+x-mean/std
+-3 to +3
+what is outlier
+less than -3 and > +3
+
+
+emperical rule
+less than mean-3.std 
+greater than mean+3std
+it will be treated as outlier
+6,213,241,260,281,290,314,
+321,350,1500
+92.625
+469.625
+q1 (25 percentile)
+=p/100*(n+1)
+=25/100*(11)
+=2.75
+213+(241-213)*0.75
+=234
+q3(75 percentile)
+=p/100*(n+1)
+= 75/100*11
+=8.25
+321+(350-321)*0.25
+328.25
+iqr=q3-q1
+328.25-234
+=94.25
+max_value=q3+1.5*iqr
+=328.25+1.5*94.25
+= 469.625
+min_value=q1-1.5*iqr
+=234-1.5*94.25
+=92.625
+
+scale down the particualr data
+why scalling
+
+price 
+
+13k
+20k
+25k
+7lakh
+9lakh
+10lakh
+
+realme 13k
+
+50k
+
+zscore 
+
+after appling z score 
+why will be the value
+mean 0 std 1
+normalization
+=x-xmin/xmax-xmin
+
+after appling normalization
+min 0 
+max 1
+
+mean , meadian ,mode, zscore,
+iqr , emperical , stand , 
+normalization
+zscore = x-mean/std
+after appling z score 
+mean =0
+std =1
+
+csv data we will go for zcore
+
+image data normaliztion technique
+
+trimming
+
+capping
+
+upper_range =95
+lower_range=32
+
+outlier 100
+100 we will replace with 95
+13 we will replace with 32
+
+cgpa salary
+3      9lpa
+10     3lpa
+
+iqr
+
+upper 67.8 
+lower 
+max value from the box plot
+100 that is nothing but outlier
+
+100 we will replace with 67.8
+
+
+iqr 
+
+emperical 
+
+5 rows
+
+delete 5 rows  trimming 
+5 rows - upper range capping
+
+linear reg assumption 
+
+central limit theorem 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
