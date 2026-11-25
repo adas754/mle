@@ -13,3 +13,4 @@
 # https://github.com/adas754/mle/blob/main/encoding1%20(1).ipynb - encoding
 # https://github.com/adas754/mle/blob/main/standardization%20(1).ipynb -> standard scaler
 # https://github.com/adas754/mle/blob/main/min_max.ipynb -> normalization
+# outlier handle -> https://github.com/adas754/mle/blob/main/outlier_updated.ipynb
