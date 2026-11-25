@@ -14,3 +14,4 @@
 # https://github.com/adas754/mle/blob/main/standardization%20(1).ipynb -> standard scaler
 # https://github.com/adas754/mle/blob/main/min_max.ipynb -> normalization
 # outlier handle -> https://github.com/adas754/mle/blob/main/outlier_updated.ipynb
+# transformation -> https://github.com/adas754/mle/blob/main/boxcox.ipynb
