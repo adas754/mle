@@ -11,3 +11,5 @@
 # https://github.com/adas754/ML_Foundations/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv
 # null value handle update-https://github.com/adas754/mle/blob/main/null_value_handle1.ipynb
 # https://github.com/adas754/mle/blob/main/encoding1%20(1).ipynb - encoding
+# https://github.com/adas754/mle/blob/main/standardization%20(1).ipynb -> standard scaler
+# 
