@@ -15,3 +15,4 @@
 # https://github.com/adas754/mle/blob/main/min_max.ipynb -> normalization
 # outlier handle -> https://github.com/adas754/mle/blob/main/outlier_updated.ipynb
 # transformation -> https://github.com/adas754/mle/blob/main/boxcox.ipynb
+# Xgboost -> https://github.com/adas754/mle/blob/main/XGBoost_Classification.pptx
